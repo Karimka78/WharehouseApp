@@ -1,0 +1,6 @@
+c:\users\mosta\documents\visual studio 2015\Projects\IPG203_Wharehouse\IPG203_Wharehouse\bin\Debug\IPG203_Wharehouse.exe.config
+c:\users\mosta\documents\visual studio 2015\Projects\IPG203_Wharehouse\IPG203_Wharehouse\obj\Debug\IPG203_Wharehouse.csprojResolveAssemblyReference.cache
+c:\users\mosta\documents\visual studio 2015\Projects\IPG203_Wharehouse\IPG203_Wharehouse\bin\Debug\IPG203_Wharehouse.exe
+c:\users\mosta\documents\visual studio 2015\Projects\IPG203_Wharehouse\IPG203_Wharehouse\bin\Debug\IPG203_Wharehouse.pdb
+c:\users\mosta\documents\visual studio 2015\Projects\IPG203_Wharehouse\IPG203_Wharehouse\obj\Debug\IPG203_Wharehouse.exe
+c:\users\mosta\documents\visual studio 2015\Projects\IPG203_Wharehouse\IPG203_Wharehouse\obj\Debug\IPG203_Wharehouse.pdb
